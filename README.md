@@ -1,2 +1,3 @@
 # ml-notes
-Machine learning and teaching journey.
+
+Machine learning utilities for quick modeling results.
